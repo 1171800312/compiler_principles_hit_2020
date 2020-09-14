@@ -1,0 +1,3 @@
+proc maxminavg;
+    integer i;;
+    i=i+1;

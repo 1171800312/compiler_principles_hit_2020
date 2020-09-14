@@ -1,0 +1,40 @@
+//single line
+float a = 1.22;
+float b = 2.32e+1;
+float c = 22.3E-1;
+int d = 22E1;
+String t = "WJP";
+/*
+multiple line
+*/
+
+/* Set to zero */
+void zero(int *arr) 
+{
+    for (int i = 0; i < n-1; i++)
+	arr[i]=0
+}
+
+int main() 
+{
+    int arr[] = {1,2,3,4,5};
+    zero(arr);
+    return 0;
+}
+while(num != 100)
+{
+    num++;
+}
+
+/* buggy code */
+
+int 1_bug = 3;
+float bug1 = 2.2.2;
+float bug2 = 1..1;
+char bug3 = 'a;
+String course = "bianyiyuanli;
+/*wjp
+
+
+
+

@@ -1,0 +1,19 @@
+proc fuction1;
+begin
+        integer a;
+        integer b;
+        integer c;
+        integer d;
+        integer i;
+        while a<b do 
+            begin
+                if c<d then 
+                    begin
+                        i=i+1; 
+                    end
+                else 
+                    begin
+                        i=i-1;
+                    end
+            end
+end

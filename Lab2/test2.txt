@@ -1,0 +1,10 @@
+proc demo;
+integer a;
+if a>5 then 
+begin
+   a=0;
+end
+while true do 
+begin
+  a=a+1;
+end
